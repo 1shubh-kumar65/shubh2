@@ -19,7 +19,7 @@ def expensive_computation():
         ]
         # question = ''
         
-        choice = 2
+        choice = 0
         
         question = questions[choice]
         
